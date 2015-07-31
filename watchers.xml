@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="ember.js bower_components\ember\ember-template-compiler.js $FilePath$" />
+    <option name="checkSyntaxErrors" value="true" />
+    <option name="description" value="" />
+    <option name="exitCodeBehavior" value="ALWAYS" />
+    <option name="fileExtension" value="handlebars;hbs;mustache" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Ember handlebars compiler" />
+    <option name="output" value="$FileNameWithoutExtension$.js" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="passParentEnvs" value="true" />
+    <option name="program" value="node.exe" />
+    <option name="scopeName" value="Project Files" />
+    <option name="trackOnlyRoot" value="false" />
+    <option name="workingDir" value="$FileDir$" />
+    <envs />
+  </TaskOptions>
+</TaskOptions>
+
